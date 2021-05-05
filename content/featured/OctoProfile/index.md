@@ -1,13 +1,14 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'Flymango'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/Rosa-Kang/mernstack-blog'
+external: 'https://flymango.netlify.app/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - React
+  - Node.js
+  - Express
+  - MongoDB Atlas
 showInProjects: true
 ---
 
