@@ -1,14 +1,15 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2021-03-27'
+title: 'React Hooks Twitter Clone'
+github: 'https://github.com/Rosa-Kang/reacttwitter'
+external: 'https://rosa-kang.github.io/reacttwitter/#/'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - React Hooks
+  - Firebase
+  - JavaScript
+
+company: ' '
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Building a Twitter clone with React Hooks and Firebase

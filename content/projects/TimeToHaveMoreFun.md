@@ -1,14 +1,14 @@
 ---
-date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+date: '2021-04-10'
+title: 'Advice Quote Card'
+github: 'https://github.com/Rosa-Kang/advice-quote-card'
+external: 'https://heuristic-wozniak-124f11.netlify.app/'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - React.js
+  - CSS/SCSS
+  - RESTful API
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+A single page web app for providing users with a wise life-tips from a web API.

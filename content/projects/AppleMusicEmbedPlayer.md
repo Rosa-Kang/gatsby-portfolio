@@ -1,14 +1,14 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+date: '2021-03-19'
+title: 'Tell me what is the weather like?'
+github: 'https://github.com/Rosa-Kang/weatherapp'
+external: 'https://expo.io/@therosessom/projects/weatherapp'
 tech:
-  - MusicKit.js
+  - React Native
   - JS
   - SCSS
-company: 'Apple'
+company: ' '
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+A mobile app with React Native and expo.io gives the weather information

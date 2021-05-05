@@ -1,15 +1,14 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+date: '2021-03-12'
+title: 'Tell me what to do!'
+github: 'https://github.com/Rosa-Kang/ToDoList'
+external: 'https://rosa-kang.github.io/ToDoList/'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - JavaScript
+  - HTML5/CSS
+  - Weather API
+company: ' '
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Simple Todo App with JavaScript using Weather API to fetch the weather from user's location.

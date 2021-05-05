@@ -1,12 +1,13 @@
 ---
-date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+date: '2021-02-29'
+title: 'Video Streaming Site'
+github: 'https://github.com/Rosa-Kang/BrainFlix-3'
+external: 'https://brainflix-netflix.herokuapp.com/'
 tech:
-  - Vue
-  - Firebase
+  - Axios-Library
+  - REST API
+  - Node.js
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+A simple Video Streaming website using ReactJS, Axios library

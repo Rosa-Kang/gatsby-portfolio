@@ -230,7 +230,6 @@ const StyledProject = styled.li`
   }
 
   .project-image {
-    ${({ theme }) => theme.mixins.boxShadow};
     grid-column: 6 / -1;
     grid-row: 1 / -1;
     position: relative;
@@ -245,13 +244,14 @@ const StyledProject = styled.li`
     a {
       width: 100%;
       height: 100%;
-      background-color: var(--green);
+
       border-radius: var(--border-radius);
       vertical-align: middle;
 
       &:hover,
       &:focus {
         background: transparent;
+        transform: translateY(-7px) scale(0.9);
         outline: 0;
 
         &:before,
@@ -280,13 +280,11 @@ const StyledProject = styled.li`
     .img {
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
 
       @media (max-width: 768px) {
         object-fit: cover;
         width: auto;
         height: 100%;
-        filter: grayscale(100%) contrast(1) brightness(80%);
       }
     }
   }
