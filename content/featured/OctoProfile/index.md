@@ -5,11 +5,11 @@ cover: './octoprofile.png'
 github: 'https://github.com/Rosa-Kang/mernstack-blog'
 external: 'https://flymango.netlify.app/'
 tech:
-  - React
+  - ReactJS
   - Node.js
   - Express
   - MongoDB Atlas
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+A nice web application where I can search for the destination of my next trip. Also people can share their good memories from their past trips

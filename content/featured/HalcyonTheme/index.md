@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A minimal theme for interior design blog page. Utilizing Pinterest API [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A minimal theme for interior design blog page. Utilizing Pinterest API
