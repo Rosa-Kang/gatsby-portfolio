@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Efforless Jewelry Shopping mall'
+title: 'Effortless Jewelry Shopping mall'
 cover: './demo.png'
 github: 'https://github.com/Rosa-Kang/jewerlystore'
 external: 'https://effortless-jewelry.herokuapp.com/'
