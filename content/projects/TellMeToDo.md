@@ -2,7 +2,7 @@
 date: '2021-03-12'
 title: 'Tell me what to do!'
 github: 'https://github.com/Rosa-Kang/ToDoList'
-external: 'https://rosa-kang.github.io/ToDoList/'
+external: 'https://daily-bucketlist.netlify.app/'
 tech:
   - JavaScript
   - HTML5/CSS
