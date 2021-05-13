@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
+        <a href="https://github.com/Rosa-Kang/gatsby-portfolio">
           <div>Developed by Rosa Kang</div>
           <div>&nbsp;</div>
           <div>Designed &amp; Built by Brittany Chiang</div>
