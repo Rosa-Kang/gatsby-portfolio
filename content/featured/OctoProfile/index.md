@@ -6,6 +6,7 @@ github: 'https://github.com/Rosa-Kang/mernstack-blog'
 external: 'https://flymango.netlify.app/'
 tech:
   - ReactJS
+  - Redux
   - Node.js
   - Express
   - MongoDB Atlas
