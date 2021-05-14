@@ -63,9 +63,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I live in Vancouver Downtown and I am actively looking for a new job now. I feel great joy to
-      build client-centered solutions to a variety of challenging projects. I am a creative,
-      innovative and comprehensive junior full-stack web developer.
+      I live in Vancouver and I am actively looking for a new job now. I feel great joy to build
+      client-centered solutions to a variety of challenging projects. I am a creative, innovative
+      and comprehensive junior full-stack web developer.
     </p>
   );
   const five = (
