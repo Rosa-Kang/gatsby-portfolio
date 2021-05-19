@@ -11,5 +11,5 @@ company: 'Scout'
 showInProjects: true
 ---
 
-A team-project from Boots camp.<br/>
-An website viewing inventory level & warehouse information.
+Web application built on the MEAN (MongoDB, Express, Angular, Node) <br/>
+Capstone Team Project
