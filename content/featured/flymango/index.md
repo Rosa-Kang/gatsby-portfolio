@@ -5,7 +5,7 @@ cover: './octoprofile.png'
 github: 'https://github.com/Rosa-Kang/mernstack-blog'
 external: 'https://flymango.netlify.app/'
 tech:
-  - ReactJS
+  - React Hooks
   - Redux
   - Node.js
   - Express
