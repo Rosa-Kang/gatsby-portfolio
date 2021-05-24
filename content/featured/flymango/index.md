@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Flymango'
 cover: './octoprofile.png'
 github: 'https://github.com/Rosa-Kang/mernstack-blog'
@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A nice web application where I can search for the destination of my next trip. Also people can share their good memories from their past trips
+An web application where users can search for the destination of my next trip. Also people can share their good memories from their past trips
