@@ -7,5 +7,5 @@ package-lock.json
 # Build directory
 /public
 .DS_Store
-
+/Users/rosakang/Documents/labs/33.portfolio/gatsby-portfolio/public
 .vscode/
