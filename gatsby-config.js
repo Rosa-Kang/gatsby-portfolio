@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Rosa Kang is a software engineer who specializes in building exceptional digital experiences.',
     siteUrl: 'https://rosa-kang.netlify.app/', // No trailing slash allowed!
-    image: '/log.png', // Path to your image you placed in the 'static' folder
+    image: '/thumbnail.png', // Path to your image you placed in the 'static' folder
     twitterUsername: ' ',
   },
   plugins: [
