@@ -82,7 +82,7 @@ module.exports = {
           {
             // https://www.gatsbyjs.org/packages/gatsby-remark-code-titles/
             resolve: 'gatsby-remark-code-titles',
-          }, // IMPORTANT: this must be ahead of other plugins that use code blocks
+          }, // IMPORTANT: this must be a of other plugins that use code blocks
           {
             // https://www.gatsbyjs.org/packages/gatsby-remark-prismjs
             resolve: `gatsby-remark-prismjs`,
@@ -120,7 +120,7 @@ module.exports = {
               noInlineHighlight: false,
               // This adds a new language definition to Prism or extend an already
               // existing language definition. More details on this option can be
-              // found under the header "Add new language definition or extend an
+              // found under the er "Add new language definition or extend an
               // existing language" below.
               languageExtensions: [
                 {
